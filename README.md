@@ -1,2 +1,2 @@
 # coindcx_util
-wrapper to coindcx apis to get some basic operations done
+wrapper on coindcx apis to get some basic operations done
